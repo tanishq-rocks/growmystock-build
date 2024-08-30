@@ -1,0 +1,52 @@
+{
+  "name": "growmystock",
+  "short_name": "growmystock",
+  "icons": [
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_64x64.a76a7a.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_120x120.a76a7a.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_144x144.a76a7a.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_152x152.a76a7a.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_192x192.a76a7a.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_384x384.a76a7a.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/growmystock-build/_nuxt/icons/icon_512x512.a76a7a.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/growmystock-build/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
